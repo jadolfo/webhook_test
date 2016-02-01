@@ -9,4 +9,4 @@ trap cleanup SIGTERM EXIT SIGABRT
 
 echo "Added again"
 echo "Added"
-echo "Hello!"
+
